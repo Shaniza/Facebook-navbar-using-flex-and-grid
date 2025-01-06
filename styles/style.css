@@ -98,7 +98,7 @@ body{
 .nav3{
     display: grid;
     grid-template-columns: 2fr 4fr 2fr;
-    /* background-color: brown; */
+    background-color: white;
     height: 60px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width: 100%;
@@ -112,7 +112,7 @@ body{
 .facebook > i{
     font-size: 40px;
     padding: 9px 0px 9px 9px;
-    color: white;
+    color: blue;
 }
 .search-bar{
     padding: 7px ;
@@ -156,16 +156,16 @@ body{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    gap:1px;
+    gap: 1px;
 }
 .user3 > a{
-    background-color: rgb(200, 208, 210);
+    background-color: rgb(241, 243, 244);
     padding: 10px;
     border-radius: 50%;
 
 }
 .user3 > a:hover{
-    background-color: white;
+    background-color: rgb(213, 216, 220);
 }
 .user3 > a > i{
     color: black;
