@@ -98,7 +98,7 @@ body{
 .nav3{
     display: grid;
     grid-template-columns: 2fr 4fr 2fr;
-    background-color: brown;
+    /* background-color: brown; */
     height: 60px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width: 100%;
